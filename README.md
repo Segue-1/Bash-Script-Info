@@ -1,2 +1,2 @@
 # Bash-Script-Info
-A bash script that will output basic information of the system to the user.
+The purpose of this script is to take 2 arguments and output the name of the script, a usage message, date and time, name of user, name of current directory, name of the machine, name of login shell, contents of the required file, number of text lines, listing of the directory, number of parameters of the script, calendar for October of current year, disk usage, current number of users in system, and current time.
